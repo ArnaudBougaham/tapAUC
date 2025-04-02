@@ -9,5 +9,4 @@ Anomaly Detection is a crucial step for critical applications such in the indust
 **Code:** See ![tapAUC.ipynb](https://github.com/ArnaudBougaham/tapAUC/blob/main/tapAUC.ipynb)
 
 **Graphical Abstract:**
-![GraphicalAbstract_tapAUC](https://github.com/user-attachments/assets/7023fa03-85c3-42ec-ab80-9b0ee7787310)
-
+![GraphicalAbstract_tapAUC](https://github.com/user-attachments/assets/f4a95de2-310b-43f3-a461-46ec13394249)
